@@ -1,1 +1,1 @@
-# Verkkoymp-rist-n-ty-kaluohjelmat
+# react-exercises
